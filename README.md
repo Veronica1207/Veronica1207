@@ -1,5 +1,12 @@
 ### Hello world! 👋
 
+Please feel free to check out some of my projects!
+
+Java:
+Book Store application with UI: git@github.com:Veronica1207/Book-Store.git
+
+
+
 <!--
 **Veronica1207/Veronica1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
