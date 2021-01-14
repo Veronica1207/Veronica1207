@@ -1,9 +1,5 @@
 ### Hello world! 👋
 
-Please feel free to check out some of my projects!
-
-Java:
-Book Store application with UI: git@github.com:Veronica1207/Book-Store.git
 
 
 
@@ -20,4 +16,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+Please feel free to check out some of my projects!
+
+Java:
+Book Store application with UI: git@github.com:Veronica1207/Book-Store.git
+
+
 -->
