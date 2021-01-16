@@ -1,6 +1,10 @@
 ### Hello world! 👋
 
+Hey, check out some of my projects!
 
+### Java:
++ [Book Store Database Application with Swing UI](https://github.com/Veronica1207/BookStore-Application.git)
++ [ATM Application](https://github.com/Veronica1207/ATM.git)
 
 
 <!--
