@@ -6,7 +6,7 @@ Hey, check out some of my projects!
 + [Book Store Database Application + Swing UI + SQL](https://github.com/Veronica1207/BookStore-Application.git): stores Book Store information in a database and allows user to interact with it through user interface.
 + [Book Store Database Application with files IO manipulations](https://github.com/Veronica1207/BookStore_Application_IO.git): reads data from provided input files, generates reports, and writes them into output files in a formatted way. 
 + [ATM Application](https://github.com/Veronica1207/ATM.git): simulates log in/deposit/withdrawal functions, generates bank reports.
-+ [Multithreading](https://github.com/Veronica1207/Multithreading.git)
++ [Multithreading](https://github.com/Veronica1207/Multithreading.git): an example of a program with multithreading.
 
 ### C++
 + [Roman_Numeral_Converter](https://github.com/Veronica1207/Roman_Numeral_Converter.git): converts numbers into their Roman numeral equivalent.
