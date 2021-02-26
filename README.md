@@ -20,7 +20,7 @@ Hey, check out some of my projects!
 + [DNA Matcher](https://github.com/Veronica1207/DNA-Matcher.git): takes a sequence of DNA and a CSV file containing STR counts for a list of individuals and then output to whom the DNA (most likely) belongs.
 
 ### HTML5 and CSS
-+ [Website-HTML5-and-CSS](https://github.com/Veronica1207/Website-HTML5-and-CSS.git): a sample website build with HTML5 and CSS, responsive for different media.
++ [Website-HTML5-and-CSS](https://github.com/Veronica1207/Website-HTML5-and-CSS.git): a sample website built with HTML5 and CSS, responsive to different media.
 
 
 <!--
